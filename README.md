@@ -7,21 +7,26 @@ Olá! Este repositório faz parte do projeto da disciplina de Requisitos de Soft
 
 ***1.1.  Nome do Grupo***
 
-Indicar o nome e github dos integrantes do grupo
+###Grupo 9 - Alcateia
+
+Abner do Nascimento: https://github.com/abnerns
+Augusto Thiago: https://github.com/thiagoatsl
+Beatriz Lopes: https://github.com/beatriz-lopes
+Carlos Hereman: https://github.com/CarlosHereman
+Letícia Marchioni: https://github.com/lemarchioni
+Luccas Hessel: https://github.com/LuccasHessel
 
 ***1.2.  Nome do Sistema***
 
-Indicar o nome do software proposto
+Biblioteca do Thiago
 
 ***1.3.  Propósito do Sistema***
 
-Este documento apresenta os requisitos dos usuários a serem desenvolvidos pela *`nome da empresa`*, fornecendo aos desenvolvedores as informações necessárias para o projeto e implementação, assim como para a realização dos testes e homologação do sistema.
-
-O objetivo do sistema `nome do sistema` é .... *<Descrever aqui o objetivo do sistema que será desenvolvido, principais características, benefícios, problemas que o sistema ajudará a resolver, o comportamento principal do sistema, etc.>*
+O objetivo da Biblioteca do Thiago é fornecer um registro de livros e textos físicos de uma biblioteca universitária, além da busca por artigos e documentos, cadastro de usuários, catalogação, gerenciamento do acervo com disponibilização de status (disponível, alugado ou para consulta), avaliações, possibilidade de reserva, entre outros. Sobretudo, busca otimizar a performance dos funcionários e facilitar a vida dos seus usuários, como um banco de dados interativo.
 
 ***1.2.  Público Alvo***
 
-Este documento se destina aos arquitetos de software, engenheiros de software, testadores, clientes... *<descrever aqui se existir mais interessados e que participarão do desenvolvimento do sistema>*
+Os funcionários e estudantes da Universidade Tecnológica Federal do Paraná. 
 
 ***1.3. Descrição dos usuários***
 
