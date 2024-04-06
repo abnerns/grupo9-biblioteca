@@ -9,12 +9,9 @@ Olá! Este repositório faz parte do projeto da disciplina de Requisitos de Soft
 
 ### Grupo 9 - Alcateia
 
-Abner do Nascimento: https://github.com/abnerns
-Augusto Thiago: https://github.com/thiagoatsl
-Beatriz Lopes: https://github.com/beatriz-lopes
-Carlos Hereman: https://github.com/CarlosHereman
-Letícia Marchioni: https://github.com/lemarchioni
-Luccas Hessel: https://github.com/LuccasHessel
+|<sub>Abner do Nascimento</sub>|<sub>Augusto Thiago</sub>|<sub>Beatriz Lopes</sub>|<sub>Carlos Hereman</sub>|<sub>Letícia Marchioni</sub>|<sub>Luccas Hessel<sub>|
+| :---: | :---: | :---: | :---: | :---: | :---: |
+|<sub>https://github.com/abnerns</sub>|<sub>https://github.com/thiagoatsl</sub>|<sub>https://github.com/beatriz-lopes</sub>|<sub>https://github.com/CarlosHereman</sub>|<sub>https://github.com/lemarchioni</sub>|<sub>https://github.com/LuccasHessel<sub>| 
 
 ***1.2.  Nome do Sistema***
 
@@ -29,6 +26,7 @@ O objetivo da Biblioteca do Thiago é fornecer um registro de livros e textos f�
 Os funcionários e estudantes da Universidade Tecnológica Federal do Paraná. 
 
 ***1.3. Descrição dos usuários***
+
 
 *<Descrever quais os usuários finais do sistema (quem vai utilizar o sistema). Neste espaço vocês vão traçar um perfil de usuário, bem como as personas e análide de tarefas>*
 
