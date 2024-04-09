@@ -13,6 +13,9 @@ Olá! Este repositório faz parte do projeto da disciplina de Requisitos de Soft
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |<sub>https://github.com/abnerns</sub>|<sub>https://github.com/thiagoatsl</sub>|<sub>https://github.com/beatriz-lopes</sub>|<sub>https://github.com/CarlosHereman</sub>|<sub>https://github.com/lemarchioni</sub>|<sub>https://github.com/LuccasHessel</sub>|<sub>https://github.com/anaceciliaso</sub>|
 
+Padlet: https://padlet.com/augustothiago1/lista-de-tarefas-lumbxjnwhasxdgfc
+
+
 ***1.2.  Nome do Sistema***
 
 Biblioteca do Thiago
@@ -27,8 +30,16 @@ Os funcionários e estudantes da Universidade Tecnológica Federal do Paraná.
 
 ***1.3. Descrição dos usuários***
 
+### Perfil do Usuário
 
-*<Descrever quais os usuários finais do sistema (quem vai utilizar o sistema). Neste espaço vocês vão traçar um perfil de usuário, bem como as personas e análide de tarefas>*
+|<sub>PERFIL</sub>|<sub>A</sub>|<sub>B</sub>|
+| :---: | :---: | :---: |
+|<sub>Porcentagem de Usuários</sub>|<sub>95%</sub>|<sub>5%</sub>|
+|<sub>Faixa Etária</sub>|<sub>[17, 40]</sub>|<sub>[35, 58]</sub>|
+|<sub>Gênero</sub>|<sub>20% F, 80% M</sub>|<sub>60% F, 40% M</sub>|
+|<sub>Afinidade com a Tecnologia</sub>|<sub>83%</sub>|<sub>70%</sub>|
+|<sub>Frequência com que usará o sistema</sub>|<sub>Ocasionalmente</sub>|<sub>Diariamente</sub>|
+|<sub>Objetivo ao usar o sistema</sub>|<sub>Encontrar material de estudo</sub>|<sub>Gerenciar os livros da biblioteca</sub>|
 
 ## 2. Documentos gerais no repositório
 
