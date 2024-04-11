@@ -35,6 +35,7 @@ Os funcionários e estudantes da Universidade Tecnológica Federal do Paraná.
 |<sub>PERFIL</sub>|<sub>A</sub>|<sub>B</sub>|
 | :---: | :---: | :---: |
 |<sub>Porcentagem de Usuários</sub>|<sub>95%</sub>|<sub>5%</sub>|
+|<sub>Profissão</sub>|<sub>Estudante/Professor</sub>|<sub>Bibliotecário</sub>|
 |<sub>Faixa Etária</sub>|<sub>[17, 40]</sub>|<sub>[35, 58]</sub>|
 |<sub>Gênero</sub>|<sub>20% F, 80% M</sub>|<sub>60% F, 40% M</sub>|
 |<sub>Afinidade com a Tecnologia</sub>|<sub>83%</sub>|<sub>70%</sub>|
