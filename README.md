@@ -22,11 +22,11 @@ Biblioteca do Thiago
 
 ***1.3.  Propósito do Sistema***
 
-O objetivo da Biblioteca do Thiago é fornecer um registro de livros e textos físicos de uma biblioteca universitária, além da busca por artigos e documentos, cadastro de usuários, catalogação, gerenciamento do acervo com disponibilização de status (disponível, alugado ou para consulta), avaliações, possibilidade de reserva, entre outros. Sobretudo, busca otimizar a performance dos funcionários e facilitar a vida dos seus usuários, como um banco de dados interativo.
+O objetivo da Biblioteca do Thiago é fornecer um registro de livros e textos físicos de uma biblioteca escolar, além da busca por artigos e documentos, cadastro de usuários, catalogação, gerenciamento do acervo com disponibilização de status (disponível, alugado ou para consulta), avaliações, possibilidade de reserva, entre outros. Sobretudo, busca otimizar a performance dos funcionários e facilitar a vida dos seus usuários, com um banco de dados interativo e a automatização de tarefas burocráticas.
 
 ***1.2.  Público Alvo***
 
-Os funcionários e estudantes da Universidade Tecnológica Federal do Paraná. 
+Os funcionários e estudantes das universidades e escolas do país.
 
 ***1.3. Descrição dos usuários***
 
