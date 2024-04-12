@@ -46,11 +46,11 @@ Os funcionários e estudantes da Universidade Tecnológica Federal do Paraná.
 
 ### Perfis
 
-![Stephanny Smitthens](assets/imagem1.png)
+![Stephanny Smitthens](imagem1.png)
 
-![João da Silva](assets/imagem2.png)
+![João da Silva](imagem2.png)
 
-![Sergio Marquina](assets/imagem3.png)
+![Sergio Marquina](imagem3.png)
 
 ***
   
