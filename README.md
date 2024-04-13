@@ -27,7 +27,7 @@ O objetivo da Biblioteca do Thiago é fornecer um registro de livros e textos f�
 
 ## 1.2.  Público Alvo
 
-Os funcionários e estudantes da Universidade Tecnológica Federal do Paraná. 
+Escolas públicas e particulares do país. 
 
 ## 1.3. Descrição dos usuários
 
