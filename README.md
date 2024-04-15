@@ -35,6 +35,7 @@ Escolas públicas e particulares do país.
   
 |<sub>PERFIL</sub>|<sub>A</sub>|<sub>B</sub>|
 | :---: | :---: | :---: |
+|<sub>Função</sub>|<sub>Alunos/Professores</sub>|<sub>Bibliotecários</sub>|
 |<sub>Porcentagem de Usuários</sub>|<sub>95%</sub>|<sub>5%</sub>|
 |<sub>Faixa Etária</sub>|<sub>[17, 40]</sub>|<sub>[35, 58]</sub>|
 |<sub>Gênero</sub>|<sub>20% F, 80% M</sub>|<sub>60% F, 40% M</sub>|
