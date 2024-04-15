@@ -17,13 +17,13 @@ Olá! Este repositório faz parte do projeto da disciplina de Requisitos de Soft
 
 ## 1.2.  Nome do Sistema
 
-<h3 align="center"> 📚 Biblioteca do Thiago 📚 </h3>
+<h3 align="center"> 📚 LibraTech 📚 </h3>
 
  **`Padlet`**: https://padlet.com/augustothiago1/lista-de-tarefas-lumbxjnwhasxdgfc
 
 ## 1.3.  Propósito do Sistema
 
-O objetivo da Biblioteca do Thiago é fornecer um registro de livros e documentos de uma biblioteca escolar, possibilitando gerenciar acervos híbridos com disponibilização de status (disponível, alugado ou para consulta), tanto físicos quanto digitais, além da busca especializada por arquivos, cadastro de usuários, catalogação, sistema de avaliações, facilidade para planejamento de aulas e possibilidade de realizar empréstimos pelo software. Sobretudo, busca otimizar a performance dos funcionários e facilitar a vida dos seus usuários, valorizando praticidade e eficiência.
+O objetivo da LibraTech é fornecer um registro de livros e documentos de uma biblioteca escolar, possibilitando gerenciar acervos híbridos com disponibilização de status (disponível, alugado ou para consulta), tanto físicos quanto digitais, além da busca especializada por arquivos, cadastro de usuários, catalogação, sistema de avaliações, facilidade para planejamento de aulas e possibilidade de realizar empréstimos pelo software. Sobretudo, busca otimizar a performance dos funcionários e facilitar a vida dos seus usuários, valorizando praticidade e eficiência.
 
 ## 1.2.  Público Alvo
 
@@ -65,7 +65,7 @@ Tanenbaum. Por causa da interface complexa, lentidão e imprecisão do sistema, 
 livro que João requisitava.</p>
 
 **Depois**
-<p>Stephanny Smitthens é uma bibliotecária recém-contratada que faz uso do programa Biblioteca do Thiago para a realização de seu trabalho. Tal programa vem auxiliado Stephanny em suas tarefas cotidianas, já que conta com uma interface rápida e intuitiva, sistema com controle integrado, ótimos recursos de busca e atualização do estoque automática, além da opção de reservar um determinado livro.
+<p>Stephanny Smitthens é uma bibliotecária recém-contratada que faz uso do programa LibraTech para a realização de seu trabalho. Tal programa vem auxiliado Stephanny em suas tarefas cotidianas, já que conta com uma interface rápida e intuitiva, sistema com controle integrado, ótimos recursos de busca e atualização do estoque automática, além da opção de reservar um determinado livro.
 
 Stephanny recepciona o aluno João da Silva, que solicitou pelo livro "Sistemas Operacionais Modernos" do autor Andrew S. Tanenbaum utilizando a plataforma online. Por causa desse excelente sistema, Stephanny consegue atender à requisição de João velozmente e de maneira assertiva, tendo previamente avaliado o catálogo e reservado o livro procurado.</p>
 
