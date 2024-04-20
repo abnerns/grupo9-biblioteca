@@ -72,15 +72,27 @@ Stephanny recepciona o aluno João da Silva, que solicitou pelo livro "Sistemas 
 
 # 2. Documentos gerais no repositório
 
-## 2.1. Requisitos de usuário
+## 2.1. Requisitos
 
-*<Link para a pasta com os requisitos de usuário.>*
+|Requisitos Funcionais|
+|:---:|
+|<sub>RF01 O software deve permitir que o bibliotecário cadastre usuários no sistema, como estudantes e professores, e monitore seus perfis.</sub>|
+|<sub>RF02 O sistema deve registrar a disponibilidade de um livro.</sub>|
+|<sub>RF03 O sistema deve manter um registro de todas as transações de empréstimo e devolução.</sub>|
+|<sub>RF04 O sistema deve conter um catálogo de todos os livros na biblioteca, junto com uma breve descrição.</sub>|
+|<sub>RF05 O software deve possuir uma interface interativa. </sub>|
+|<sub>RF06 O sistema deve separar os livros e documentos físicos em seções de acordo com suas categorias.</sub>|
+|<sub>RF07 O software deve garantir a segurança e proteção dos dados contra acessos externos.</sub>|
+|<sub>RF08 O software deve ter compatibilidade com diversos dispositivos.</sub>|
+|<sub>RF09 O sistema da biblioteca deve estar integrado com o sistema acadêmico da escola.</sub>|
+|<sub>RF10 O acervo da biblioteca deve receber atualizações de seus arquivos em tempo real, com um backup automático.</sub>|
+|<sub>RF11 O sistema deve permitir que os administradores alterem informações de livros.</sub>|
+|<sub>RF12 O sistema deve permitir a reserva de um livro somente se ele estiver em estoque</sub>|
+|<sub>RF13 O sistema deve permitir que o usuário consulte o status do livro que foi emprestado, bem como seus dados, data do empréstimo e devolução.</sub>|
+|<sub>RF14 O sistema não deve permitir que mais de um usuário reserve o mesmo livro.</sub>|
+|<sub>RF15 O software deve recomendar livros aos seus usuários, de acordo com suas categorias de interesse.</sub>| 
 
-## 2.2. Requisitos de sistema
-
-*<Link para a pasta de requisitos de sistema .>*
-
-## 2.3. Protótipos
+## 2.2. Protótipos
 
 *<Link para a pasta com os protótipos.>*
 
