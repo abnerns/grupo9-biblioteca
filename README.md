@@ -96,7 +96,7 @@ Stephanny recepciona o aluno João da Silva, que solicitou pelo livro "Sistemas 
 |:---:|
 |<sub>RNF01 Os bibliotecários devem ser capazes de utilizar todas as funcionalidades do sistema após um dia de uso.</sub>|
 |<sub>RNF02 Os estudantes e professores devem ser capazes de aprender a utilizar o sistema inteiramente com apenas alguns minutos de visualização.</sub>|
-|<sub>RNF03 As consultas e buscas pela disponibilidade dos livros devem ser respondidas em menos de 4 segundos.</sub>|
+|<sub>RNF03 As consultas e buscas pela disponibilidade dos livros devem ser respondidas em menos de 3 segundos.</sub>|
 |<sub>RNF04 O sistema deve ter um chat para tirar dúvidas sobre seu uso, disponível em todas as páginas e sempre acessível.</sub>|
 |<sub>RNF05 O sistema deve suportar 500 usuários concorrentemente.</sub>|
 |<sub>RNF06 O sistema deve ser multiplataforma.</sub>|
