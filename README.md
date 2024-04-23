@@ -105,7 +105,7 @@ Stephanny recepciona o aluno João da Silva, que solicitou pelo livro "Sistemas 
 |<sub>RNF09 O sistema deve realizar atualizações e backups automáticos, num servidor financiado pelo próprio fornecedor.</sub>|
 |<sub>RNF10 O sistema deve suportar os sistemas operacionais Windows e Linux, e os navegadores mais famosos.</sub>|
 |<sub>RNF11 O sistema deve ser desenvolvido usando os conceitos de orientação a objeto.</sub>|
-|<sub>RNF12 O sistema deve interagir com O sistema acadêmico da instituição e o acervo digital</sub>|
+|<sub>RNF12 O sistema deve interagir com o sistema acadêmico da instituição e o acervo digital</sub>|
 
 ## 2.2. Protótipos
 
