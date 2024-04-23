@@ -92,6 +92,21 @@ Stephanny recepciona o aluno João da Silva, que solicitou pelo livro "Sistemas 
 |<sub>RF14 O sistema não deve permitir que mais de um usuário reserve o mesmo livro.</sub>|
 |<sub>RF15 O software deve recomendar livros aos seus usuários, de acordo com suas categorias de interesse.</sub>| 
 
+|Requisitos Não-Funcionais|
+|:---:|
+|<sub>RNF01 Os bibliotecários devem ser capazes de utilizar todas as funcionalidades do sistema após um dia de uso.</sub>|
+|<sub>RNF02 Os estudantes e professores devem ser capazes de aprender a utilizar o sistema inteiramente com apenas alguns minutos de visualização.</sub>|
+|<sub>RNF03 As consultas e buscas pela disponibilidade dos livros devem ser respondidas em menos de 4 segundos.</sub>|
+|<sub>RNF04 O sistema deve ter um chat para tirar dúvidas sobre seu uso, disponível em todas as páginas e sempre acessível.</sub>|
+|<sub>RNF05 O sistema deve suportar 500 usuários concorrentemente.</sub>|
+|<sub>RNF06 O sistema deve ser multiplataforma.</sub>|
+|<sub>RNF07 O sistema deve estar disponível 24 horas por dia, 7 dias por semana.</sub>|
+|<sub>RNF08 O sistema deve ter uma hospedagem robusta e confiável.</sub>|
+|<sub>RNF09 O sistema deve realizar atualizações e backups automáticos, num servidor.</sub>|
+|<sub>RNF10 O sistema deve suportar os sistemas operacionais Windows e Linux, e os navegadores mais famosos.</sub>|
+|<sub>RNF11 O sistema deve ser desenvolvido usando os conceitos de orientação a objeto.</sub>|
+|<sub>RNF12 O sistema deve interagir com O sistema acadêmico da instituição e o acervo digital</sub>|
+
 ## 2.2. Protótipos
 
 *<Link para a pasta com os protótipos.>*
