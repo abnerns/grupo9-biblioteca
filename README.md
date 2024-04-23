@@ -102,7 +102,7 @@ Stephanny recepciona o aluno João da Silva, que solicitou pelo livro "Sistemas 
 |<sub>RNF06 O sistema deve ser multiplataforma.</sub>|
 |<sub>RNF07 O sistema deve estar disponível 24 horas por dia, 7 dias por semana.</sub>|
 |<sub>RNF08 O sistema deve ter uma hospedagem robusta e confiável.</sub>|
-|<sub>RNF09 O sistema deve realizar atualizações e backups automáticos, num servidor.</sub>|
+|<sub>RNF09 O sistema deve realizar atualizações e backups automáticos, num servidor financiado pelo próprio fornecedor.</sub>|
 |<sub>RNF10 O sistema deve suportar os sistemas operacionais Windows e Linux, e os navegadores mais famosos.</sub>|
 |<sub>RNF11 O sistema deve ser desenvolvido usando os conceitos de orientação a objeto.</sub>|
 |<sub>RNF12 O sistema deve interagir com O sistema acadêmico da instituição e o acervo digital</sub>|
