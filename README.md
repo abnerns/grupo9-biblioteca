@@ -77,9 +77,9 @@ Stephanny recepciona o aluno João da Silva, que solicitou pelo livro "Sistemas 
 |Requisitos Funcionais|
 |:---:|
 |<sub>RF01 O software deve permitir que o bibliotecário cadastre usuários no sistema, como estudantes e professores, e monitore seus perfis.</sub>|
-|<sub>RF02 O sistema deve registrar a disponibilidade de um livro.</sub>|
+|<sub>RF02 O sistema deve registrar a disponibilidade de um livro e permitir que um usuário consulte-a.</sub>|
 |<sub>RF03 O sistema deve manter um registro de todas as transações de empréstimo e devolução.</sub>|
-|<sub>RF04 O sistema deve conter um catálogo de todos os livros na biblioteca, junto com uma breve descrição.</sub>|
+|<sub>RF04 O sistema deve conter um catálogo de todos os livros na biblioteca, junto com uma breve descrição de cada.</sub>|
 |<sub>RF05 O software deve possuir uma interface interativa. </sub>|
 |<sub>RF06 O sistema deve separar os livros e documentos físicos em seções de acordo com suas categorias.</sub>|
 |<sub>RF07 O software deve garantir a segurança e proteção dos dados contra acessos externos.</sub>|
@@ -90,7 +90,8 @@ Stephanny recepciona o aluno João da Silva, que solicitou pelo livro "Sistemas 
 |<sub>RF12 O sistema deve permitir a reserva de um livro somente se ele estiver em estoque</sub>|
 |<sub>RF13 O sistema deve permitir que o usuário consulte o status do livro que foi emprestado, bem como seus dados, data do empréstimo e devolução.</sub>|
 |<sub>RF14 O sistema não deve permitir que mais de um usuário reserve o mesmo livro.</sub>|
-|<sub>RF15 O software deve recomendar livros aos seus usuários, de acordo com suas categorias de interesse.</sub>| 
+|<sub>RF16 O software deve possuir um algoritmo capacitado para dar recomendações de livros aos seus usuários, de acordo com suas áreas de interesse e histórico de leitura.</sub>|
+|<sub>RF17 O software deve ter um sistema de busca especializado para facilitar a pesquisa de seus usuários, preferencialmente categorizando-a de maneira mais intuitiva.</sub>|
 
 |Requisitos Não-Funcionais|
 |:---:|
@@ -106,6 +107,10 @@ Stephanny recepciona o aluno João da Silva, que solicitou pelo livro "Sistemas 
 |<sub>RNF10 O sistema deve suportar os sistemas operacionais Windows e Linux, e os navegadores mais famosos.</sub>|
 |<sub>RNF11 O sistema deve ser desenvolvido usando os conceitos de orientação a objeto.</sub>|
 |<sub>RNF12 O sistema deve interagir com o sistema acadêmico da instituição e o acervo digital</sub>|
+
+|Histórias de Usuário|
+|:---:|
+|<sub></sub>|
 
 ## 2.2. Protótipos
 
