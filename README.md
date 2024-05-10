@@ -113,14 +113,14 @@ Stephanny recepciona o aluno João da Silva, que solicitou pelo livro "Sistemas 
 |:---:|
 |<sub>HU01 Como bibliotecário, eu quero cadastrar usuários no sistema, para ter maior controle sobre o gerenciamento de seus perfis.</sub>|
 |<sub>HU02 Como um usuário do sistema, eu quero consultar a disponibilidade de um livro, para saber se ele pode ser emprestado ou não.</sub>|
-|<sub>HU03 Como bibliotécario, eu quero registrar o status de um livro, para estar ciente do histórico de transações dele.</sub>|
-|<sub>HU04 Como bibliotecário, eu quero ter acesso ao catálogo completo da biblioteca, para não ter falta de informações em meu serviço.</sub>|
-|<sub>HU05 Como usuário e bibliotecário, eu quero ter facilidade ao utilizar o sistema, para tornar o processo de aprendizado intuitivo.</sub>|
-|<sub>HU06 </sub>|
-|<sub>HU07 </sub>|
-|<sub>HU08 </sub>|
-|<sub>HU09 </sub>|
-|<sub>HU10 </sub>|
+|<sub>HU03 Como bibliotécario, eu quero registrar o status e a descrição de um livro, para estar ciente do histórico de transações dele e seu conteúdo.</sub>|
+|<sub>HU04 Como bibliotecário, eu quero ter acesso ao catálogo completo dos títulos presentes na biblioteca, para não ter falta de informações em meu serviço.</sub>|
+|<sub>HU05 Como usuário e bibliotecário, eu quero ter facilidade ao utilizar o sistema, para tornar o processo de aprendizado rápido e eficiente.</sub>|
+|<sub>HU06 Como estudante, eu quero receber recomendações de livros com base nas minhas últimas leituras, para encontrar outros títulos semelhantes da minha área de interesse com mais facilidade.</sub>|
+|<sub>HU07 Como usuário, eu quero ter acesso ao chat de suporte ao usuário e um espaço reservado para feedback, para que assim possa ter minhas dúvidas saciadas e opiniões validadas ao utilizar o sistema.</sub>|
+|<sub>HU08 Como bibliotecário, eu quero um sistema altamente responsivo, para agilizar minhas tarefas manuais. </sub>|
+|<sub>HU09 Como estudante ou professor, eu quero poder consultar livros com antecedência, para que possa reservá-lo e agilizar o processo de empréstimo. </sub>|
+|<sub>HU10 Como bibliotecário, eu quero um sistema confiável com backup automático, para que não perca alterações feitas durante o meu trabalho. </sub>|
 
 ## 2.2. Protótipos
 
