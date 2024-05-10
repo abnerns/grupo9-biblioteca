@@ -76,7 +76,7 @@ Stephanny recepciona o aluno João da Silva, que solicitou pelo livro "Sistemas 
 
 |Requisitos Funcionais|
 |:---:|
-|<sub>RF01 O sistema deve permitir que o bibliotecário cadastre usuários no sistema, como estudantes e professores, e monitore seus perfis. | Alta</sub>|
+|<sub>RF01 O sistema deve permitir que o bibliotecário cadastre usuários no sistema, como estudantes e professores, e monitore seus perfis. - Alta</sub>|
 |<sub>RF02 O sistema deve registrar a disponibilidade de um livro e permitir que um usuário consulte-a.</sub>|
 |<sub>RF03 O sistema deve manter um registro de todas as transações de empréstimo e devolução.</sub>|
 |<sub>RF04 O sistema deve conter um catálogo de todos os livros na biblioteca, junto com uma breve descrição de cada.</sub>|
