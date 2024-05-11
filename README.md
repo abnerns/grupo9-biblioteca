@@ -122,6 +122,10 @@ Stephanny recepciona o aluno João da Silva, que solicitou pelo livro "Sistemas 
 |<sub>HU09 Como estudante ou professor, eu quero poder consultar livros com antecedência, para que possa reservá-lo e agilizar o processo de empréstimo. </sub>|
 |<sub>HU10 Como bibliotecário, eu quero um sistema confiável com backup automático, para que não perca alterações feitas durante o meu trabalho. </sub>|
 
+### Entrevistas
+
+<p> As entrevistas estão armazenadas como arquivos aqui no repositório.</p>
+
 ## 2.2. Protótipos
 
 *<Link para a pasta com os protótipos.>*
