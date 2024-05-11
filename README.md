@@ -170,7 +170,7 @@ Requisitos de Software
 7. Você recebe ou já recebeu alguma reclamação ou crítica construtiva que queira compartilhar? Aqui ou da ouvidoria? Sem pressão
 
 ***   
-**As entrevistas estão armazenadas como os arquivos `Entrevista Bibliotecária` e `Entrevista Estudante` aqui no repositório.**
+**As entrevistas estão armazenadas como os arquivos [Entrevista Bibliotecária](https://github.com/abnerns/grupo9-biblioteca/blob/main/Entrevista%20Bibliotec%C3%A1ria.pdf) e [Entrevista Estudante](https://github.com/abnerns/grupo9-biblioteca/blob/main/Entrevista%20Estudante.pdf) aqui no repositório.**
 
 
 
