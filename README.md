@@ -123,8 +123,56 @@ Stephanny recepciona o aluno João da Silva, que solicitou pelo livro "Sistemas 
 |<sub>HU10 Como bibliotecário, eu quero um sistema confiável com backup automático, para que não perca alterações feitas durante o meu trabalho. </sub>|
 
 ### Entrevistas
+<h3 align="center">INFORMAÇÕES</h3>
 
-<p> As entrevistas estão armazenadas como arquivos aqui no repositório.</p>
+⦁ Por que?
+- Coletar dados sobre que melhorias e funções implemetar em nosso sistema
+
+⦁ Quem?
+- Bibliotecários e estudantes
+
+⦁ Quando?
+- Terça ou quinta
+
+⦁ Onde?
+- Biblioteca
+
+⦁ Como?
+- Será registrado através de GRAVAÇÃO e questões específicas, avaliativas e categóricas
+
+<h3 align="center">PERGUNTAS PARA ESTUDANTES</h3>
+1. Quais funcionalidades você considera essenciais em um sistema de gerenciamento de biblioteca escolar?
+
+2. Qual é a sua experiência com o suporte ao usuário do sistema atual e o que poderia ser melhorado nesse aspecto?
+
+3. Como você avalia a eficiência do sistema atual e o que poderia ser feito para melhorá-lo? Quais recursos adicionais você gostaria de ver no sistema que poderiam apoiar o aprendizado e a pesquisa?
+
+4. O que você acha que precisa ser feito para atrair mais estudantes para as bibliotecas?
+
+5. Como você descreveria a interface do usuário do sistema atual? Você acha prática e intuitiva, fácil de usar?
+
+6. Você gostaria de fazer alguma reclamação ou crítica construtiva para a melhoria do sistema?
+Requisitos de Software
+
+<h3 align="center">PERGUNTAS PARA BIBLIOTECÁRIOS</h3>
+1. Quais funcionalidades você considera essenciais em um sistema de gerenciamento de biblioteca escolar?
+
+2. Qual é a sua experiência com o suporte ao usuário do sistema atual e o que poderia ser melhorado nesse aspecto?
+
+3. Tem algum trabalho manual que você acha imprático (tipo a catalogação e a gestão de recursos), que poderia ser automatizado?
+
+4.Como você avalia a eficiência do sistema atual e o que poderia ser feito para melhorá-lo? Quais recursos adicionais você gostaria de ver no sistema que poderiam apoiar o aprendizado e a pesquisa?
+
+5. O que você acha que precisa ser feito para atrair mais estudantes para as bibliotecas? Como você imagina a biblioteca do futuro e quais características do sistema atual você acredita que devem ser mantidas ou adaptadas para esse futuro?
+
+6. Como você descreveria a interface do usuário do sistema atual? Ela é intuitiva e amigável para todos os usuários?
+
+7. Você recebe ou já recebeu alguma reclamação ou crítica construtiva que queira compartilhar? Aqui ou da ouvidoria? Sem pressão
+
+***   
+**As entrevistas estão armazenadas como os arquivos `Entrevista Bibliotecária` e `Entrevista Estudante` aqui no repositório.**
+
+
 
 ## 2.2. Protótipos
 
