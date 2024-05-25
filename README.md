@@ -23,7 +23,7 @@ Olá! Este repositório faz parte do projeto da disciplina de Requisitos de Soft
 
 ## 1.3.  Propósito do Sistema
 
-O objetivo da LibraTech é fornecer um registro de livros e documentos de uma biblioteca escolar, possibilitando gerenciar acervos híbridos com disponibilização de status (disponível, alugado ou para consulta), tanto físicos quanto digitais, além da busca especializada por arquivos, cadastro de usuários, catalogação, sistema de avaliações, facilidade para planejamento de aulas e possibilidade de realizar empréstimos pelo software. Sobretudo, busca otimizar a performance dos funcionários e facilitar a vida dos seus usuários, valorizando praticidade e eficiência.
+O objetivo da LibraTech é fornecer um registro de livros e documentos de uma biblioteca escolar, possibilitando gerenciar acervos híbridos com disponibilização de status (disponível, alugado ou para consulta), tanto físicos quanto digitais, além da busca especializada por arquivos, cadastro de usuários, catalogação, sistema de avaliações, facilidade para planejamento de aulas e possibilidade de realizar reservas pelo software. Sobretudo, busca otimizar a performance dos funcionários e facilitar a vida dos seus usuários, valorizando praticidade e eficiência.
 
 ## 1.2.  Público Alvo
 
