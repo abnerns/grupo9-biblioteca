@@ -80,33 +80,32 @@ Stephanny recepciona o aluno João da Silva, que solicitou pelo livro "Sistemas 
 |<sub>RF02 O sistema deve registrar a disponibilidade de um livro e permitir que um usuário consulte-a.</sub>|<sub>ALTA</sub>|
 |<sub>RF03 O sistema deve manter um registro de todas as transações de empréstimo e devolução.</sub>|<sub>ALTA</sub>|
 |<sub>RF04 O sistema deve conter um catálogo de todos os livros na biblioteca, junto com uma breve descrição de cada.</sub>|<sub>ALTA</sub>|
-|<sub>RF05 O sistema deve possuir uma interface interativa.</sub>|<sub>MÉDIA</sub>|
+|<sub>RN05 O sistema deve ter um chat para tirar dúvidas sobre seu uso, disponível em todas as páginas e sempre acessível.</sub>|<sub>BAIXA</sub>|
 |<sub>RF06 O sistema deve separar os livros e documentos físicos em seções de acordo com suas categorias.</sub>|<sub>BAIXA</sub>|
-|<sub>RF07 O sistema deve garantir a segurança e proteção dos dados contra acessos externos.</sub>|<sub>ALTA</sub>|
-|<sub>RF08 O sistema da biblioteca deve estar integrado com o sistema acadêmico da escola.</sub>|<sub>ALTA</sub>|
-|<sub>RF09 O acervo da biblioteca deve receber atualizações de seus arquivos em tempo real, com um backup automático.</sub>|<sub>MÉDIA</sub>|
-|<sub>RF10 O sistema deve permitir que os administradores alterem informações de livros.</sub>|<sub>BAIXA</sub>|
-|<sub>RF11 O sistema deve permitir a reserva de um livro somente se ele estiver em estoque.</sub>|<sub>MÉDIA</sub>|
-|<sub>RF12 O sistema deve permitir que o usuário consulte o status do livro que foi emprestado, bem como seus dados, data do empréstimo e devolução.</sub>|<sub>BAIXA</sub>|
-|<sub>RF13 O sistema não deve permitir que mais de um usuário reserve o mesmo livro.</sub>|<sub>MÉDIA</sub>|
-|<sub>RF14 O sistema deve possuir um algoritmo capacitado para dar recomendações de livros aos seus usuários, de acordo com suas áreas de interesse e histórico de leitura.</sub>|<sub>BAIXA</sub>|
-|<sub>RF15 O sistema deve ter um sistema de busca especializado para facilitar a pesquisa de seus usuários, preferencialmente categorizando-a de maneira mais intuitiva.</sub>|<sub>ALTA</sub>|
-|<sub>RF16 O sistema deve permitir que o usuário envie reclamações, elogios ou feedbacks para os bibliotecários.</sub>|<sub>BAIXA</sub>|
+|<sub>RF07 O sistema deve ser desenvolvido usando os conceitos de orientação a objeto.</sub>|<sub>BAIXA</sub>|
+|<sub>RF08 O sistema deve interagir com o sistema acadêmico da instituição e o acervo digital.</sub>|<sub>ALTA</sub>|
+|<sub>RF09 O sistema deve permitir que os administradores alterem o nome, descrição, código e disponibilidade dos livros.</sub>|<sub>BAIXA</sub>|
+|<sub>RF10 O sistema deve permitir a reserva de um livro somente se ele estiver em estoque.</sub>|<sub>MÉDIA</sub>|
+|<sub>RF11 O sistema deve permitir que o usuário consulte o status do livro que foi emprestado, bem como seus dados, data do empréstimo e devolução.</sub>|<sub>BAIXA</sub>|
+|<sub>RF12 O sistema não deve permitir que mais de um usuário reserve o mesmo livro.</sub>|<sub>MÉDIA</sub>|
+|<sub>RF13 O sistema deve possuir um algoritmo capacitado para dar recomendações de livros aos seus usuários, de acordo com suas áreas de interesse e histórico de leitura.</sub>|<sub>BAIXA</sub>|
+|<sub>RF14 O sistema deve ter um sistema de busca especializado para facilitar a pesquisa de seus usuários, preferencialmente categorizando-a de maneira mais intuitiva.</sub>|<sub>ALTA</sub>|
+|<sub>RF15 O sistema deve permitir que o usuário envie reclamações, elogios ou feedbacks para os bibliotecários.</sub>|<sub>BAIXA</sub>|
 
 |Requisitos Não-Funcionais|Prioridades|
 |:---:|:---:|
 |<sub>RNF01 Os bibliotecários devem ser capazes de utilizar todas as funcionalidades do sistema após um dia de uso.</sub>|<sub>ALTA</sub>|
 |<sub>RNF02 Os estudantes e professores devem ser capazes de aprender a utilizar o sistema inteiramente com apenas alguns minutos de visualização.</sub>|<sub>ALTA</sub>|
 |<sub>RNF03 As consultas e buscas pela disponibilidade dos livros devem ser respondidas em menos de 3 segundos.</sub>|<sub>MÉDIA</sub>|
-|<sub>RNF04 O sistema deve ter um chat para tirar dúvidas sobre seu uso, disponível em todas as páginas e sempre acessível.</sub>|<sub>BAIXA</sub>|
+|<sub>RNF04 O sistema deve possuir uma interface interativa.</sub>|<sub>MÉDIA</sub>|
 |<sub>RNF05 O sistema deve suportar 500 usuários concorrentemente.</sub>|<sub>ALTA</sub>|
 |<sub>RNF06 O sistema deve ser multiplataforma.</sub>|<sub>BAIXA</sub>|
 |<sub>RNF07 O sistema deve estar disponível 24 horas por dia, 7 dias por semana.</sub>|<sub>ALTA</sub>|
 |<sub>RNF08 O sistema deve ter uma hospedagem robusta e confiável.</sub>|<sub>ALTA</sub>|
 |<sub>RNF09 O sistema deve realizar atualizações e backups automáticos, num servidor financiado pelo próprio fornecedor.</sub>|<sub>ALTA</sub>|
 |<sub>RNF10 O sistema deve suportar os sistemas operacionais Windows e Linux, e os navegadores mais famosos.</sub>|<sub>ALTA</sub>|
-|<sub>RNF11 O sistema deve ser desenvolvido usando os conceitos de orientação a objeto.</sub>|<sub>BAIXA</sub>|
-|<sub>RNF12 O sistema deve interagir com o sistema acadêmico da instituição e o acervo digital.</sub>|<sub>ALTA</sub>|
+|<sub>RFN11 O sistema deve garantir a segurança e proteção dos dados contra acessos externos.</sub>|<sub>ALTA</sub>|
+|<sub>RFN12 O sistema da biblioteca deve estar integrado com o sistema acadêmico da escola.</sub>|<sub>ALTA</sub>|
 
 
 |Histórias de Usuário|
