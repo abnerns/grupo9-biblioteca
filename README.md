@@ -74,52 +74,52 @@ Stephanny recepciona o aluno João da Silva, que solicitou pelo livro "Sistemas 
 
 ## 2.1. Requisitos
 
-|Requisitos Funcionais|Prioridades|
+|ID|Requisitos Funcionais|Prioridades|
+|:---:|:---:|:---:|
+|<sub>RF01</sub>|<sub>O sistema deve permitir que o bibliotecário cadastre usuários no sistema, como estudantes e professores, e monitore seus perfis.</sub>|<sub>ALTA</sub>|
+|<sub>RF02</sub>|<sub>O sistema deve registrar a disponibilidade de um livro e permitir que um usuário consulte-a.</sub>|<sub>ALTA</sub>|
+|<sub>RF03</sub>|<sub>O sistema deve manter um registro de todas as transações de empréstimo e devolução.</sub>|<sub>ALTA</sub>|
+|<sub>RF04</sub>|<sub>O sistema deve conter um catálogo de todos os livros na biblioteca, junto com uma breve descrição de cada.</sub>|<sub>ALTA</sub>|
+|<sub>RN05</sub>|<sub>O sistema deve ter um chat para tirar dúvidas sobre seu uso, disponível em todas as páginas e sempre acessível.</sub>|<sub>BAIXA</sub>|
+|<sub>RF06</sub>|<sub>O sistema deve separar os livros e documentos físicos em seções de acordo com suas categorias.</sub>|<sub>BAIXA</sub>|
+|<sub>RF07</sub>|<sub>O sistema deve ser desenvolvido usando os conceitos de orientação a objeto.</sub>|<sub>BAIXA</sub>|
+|<sub>RF08</sub>|<sub>O sistema deve interagir com o sistema acadêmico da instituição e o acervo digital.</sub>|<sub>ALTA</sub>|
+|<sub>RF09</sub>|<sub>O sistema deve permitir que os administradores alterem o nome, descrição, código e disponibilidade dos livros.</sub>|<sub>BAIXA</sub>|
+|<sub>RF10</sub>|<sub>O sistema deve permitir a reserva de um livro somente se ele estiver em estoque.</sub>|<sub>MÉDIA</sub>|
+|<sub>RF11</sub>|<sub>O sistema deve permitir que o usuário consulte o status do livro que foi emprestado, bem como seus dados, data do empréstimo e devolução.</sub>|<sub>BAIXA</sub>|
+|<sub>RF12</sub>|<sub>O sistema não deve permitir que mais de um usuário reserve o mesmo livro.</sub>|<sub>MÉDIA</sub>|
+|<sub>RF13</sub>|<sub>O sistema deve possuir um algoritmo capacitado para dar recomendações de livros aos seus usuários, de acordo com suas áreas de interesse e histórico de leitura.</sub>|<sub>BAIXA</sub>|
+|<sub>RF14</sub>|<sub>O sistema deve ter um sistema de busca especializado para facilitar a pesquisa de seus usuários, preferencialmente categorizando-a de maneira mais intuitiva.</sub>|<sub>ALTA</sub>|
+|<sub>RF15</sub>|<sub>O sistema deve permitir que o usuário envie reclamações, elogios ou feedbacks para os bibliotecários.</sub>|<sub>BAIXA</sub>|
+
+|ID|Requisitos Não-Funcionais|Prioridades|
+|:---:|:---:|:---:|
+|<sub>RNF01</sub>|<sub>Os bibliotecários devem ser capazes de utilizar todas as funcionalidades do sistema após um dia de uso.</sub>|<sub>ALTA</sub>|
+|<sub>RNF02</sub>|<sub>Os estudantes e professores devem ser capazes de aprender a utilizar o sistema inteiramente com apenas alguns minutos de visualização.</sub>|<sub>ALTA</sub>|
+|<sub>RNF03</sub>|<sub>As consultas e buscas pela disponibilidade dos livros devem ser respondidas em menos de 3 segundos.</sub>|<sub>MÉDIA</sub>|
+|<sub>RNF04</sub>|<sub>O sistema deve possuir uma interface interativa.</sub>|<sub>MÉDIA</sub>|
+|<sub>RNF05</sub>|<sub>O sistema deve suportar 500 usuários concorrentemente.</sub>|<sub>ALTA</sub>|
+|<sub>RNF06</sub>|<sub>O sistema deve ser multiplataforma.</sub>|<sub>BAIXA</sub>|
+|<sub>RNF07</sub>|<sub>O sistema deve estar disponível 24 horas por dia, 7 dias por semana.</sub>|<sub>ALTA</sub>|
+|<sub>RNF08</sub>|<sub>O sistema deve ter uma hospedagem robusta e confiável.</sub>|<sub>ALTA</sub>|
+|<sub>RNF09</sub>|<sub>O sistema deve realizar atualizações e backups automáticos, num servidor financiado pelo próprio fornecedor.</sub>|<sub>ALTA</sub>|
+|<sub>RNF10</sub>|<sub>O sistema deve suportar os sistemas operacionais Windows e Linux, e os navegadores mais famosos.</sub>|<sub>ALTA</sub>|
+|<sub>RFN11</sub>|<sub>O sistema deve garantir a segurança e proteção dos dados contra acessos externos.</sub>|<sub>ALTA</sub>|
+|<sub>RFN12</sub>|<sub>O sistema da biblioteca deve estar integrado com o sistema acadêmico da escola.</sub>|<sub>ALTA</sub>|
+
+
+|ID|Histórias de Usuário|
 |:---:|:---:|
-|<sub>RF01 O sistema deve permitir que o bibliotecário cadastre usuários no sistema, como estudantes e professores, e monitore seus perfis.</sub>|<sub>ALTA</sub>|
-|<sub>RF02 O sistema deve registrar a disponibilidade de um livro e permitir que um usuário consulte-a.</sub>|<sub>ALTA</sub>|
-|<sub>RF03 O sistema deve manter um registro de todas as transações de empréstimo e devolução.</sub>|<sub>ALTA</sub>|
-|<sub>RF04 O sistema deve conter um catálogo de todos os livros na biblioteca, junto com uma breve descrição de cada.</sub>|<sub>ALTA</sub>|
-|<sub>RN05 O sistema deve ter um chat para tirar dúvidas sobre seu uso, disponível em todas as páginas e sempre acessível.</sub>|<sub>BAIXA</sub>|
-|<sub>RF06 O sistema deve separar os livros e documentos físicos em seções de acordo com suas categorias.</sub>|<sub>BAIXA</sub>|
-|<sub>RF07 O sistema deve ser desenvolvido usando os conceitos de orientação a objeto.</sub>|<sub>BAIXA</sub>|
-|<sub>RF08 O sistema deve interagir com o sistema acadêmico da instituição e o acervo digital.</sub>|<sub>ALTA</sub>|
-|<sub>RF09 O sistema deve permitir que os administradores alterem o nome, descrição, código e disponibilidade dos livros.</sub>|<sub>BAIXA</sub>|
-|<sub>RF10 O sistema deve permitir a reserva de um livro somente se ele estiver em estoque.</sub>|<sub>MÉDIA</sub>|
-|<sub>RF11 O sistema deve permitir que o usuário consulte o status do livro que foi emprestado, bem como seus dados, data do empréstimo e devolução.</sub>|<sub>BAIXA</sub>|
-|<sub>RF12 O sistema não deve permitir que mais de um usuário reserve o mesmo livro.</sub>|<sub>MÉDIA</sub>|
-|<sub>RF13 O sistema deve possuir um algoritmo capacitado para dar recomendações de livros aos seus usuários, de acordo com suas áreas de interesse e histórico de leitura.</sub>|<sub>BAIXA</sub>|
-|<sub>RF14 O sistema deve ter um sistema de busca especializado para facilitar a pesquisa de seus usuários, preferencialmente categorizando-a de maneira mais intuitiva.</sub>|<sub>ALTA</sub>|
-|<sub>RF15 O sistema deve permitir que o usuário envie reclamações, elogios ou feedbacks para os bibliotecários.</sub>|<sub>BAIXA</sub>|
-
-|Requisitos Não-Funcionais|Prioridades|
-|:---:|:---:|
-|<sub>RNF01 Os bibliotecários devem ser capazes de utilizar todas as funcionalidades do sistema após um dia de uso.</sub>|<sub>ALTA</sub>|
-|<sub>RNF02 Os estudantes e professores devem ser capazes de aprender a utilizar o sistema inteiramente com apenas alguns minutos de visualização.</sub>|<sub>ALTA</sub>|
-|<sub>RNF03 As consultas e buscas pela disponibilidade dos livros devem ser respondidas em menos de 3 segundos.</sub>|<sub>MÉDIA</sub>|
-|<sub>RNF04 O sistema deve possuir uma interface interativa.</sub>|<sub>MÉDIA</sub>|
-|<sub>RNF05 O sistema deve suportar 500 usuários concorrentemente.</sub>|<sub>ALTA</sub>|
-|<sub>RNF06 O sistema deve ser multiplataforma.</sub>|<sub>BAIXA</sub>|
-|<sub>RNF07 O sistema deve estar disponível 24 horas por dia, 7 dias por semana.</sub>|<sub>ALTA</sub>|
-|<sub>RNF08 O sistema deve ter uma hospedagem robusta e confiável.</sub>|<sub>ALTA</sub>|
-|<sub>RNF09 O sistema deve realizar atualizações e backups automáticos, num servidor financiado pelo próprio fornecedor.</sub>|<sub>ALTA</sub>|
-|<sub>RNF10 O sistema deve suportar os sistemas operacionais Windows e Linux, e os navegadores mais famosos.</sub>|<sub>ALTA</sub>|
-|<sub>RFN11 O sistema deve garantir a segurança e proteção dos dados contra acessos externos.</sub>|<sub>ALTA</sub>|
-|<sub>RFN12 O sistema da biblioteca deve estar integrado com o sistema acadêmico da escola.</sub>|<sub>ALTA</sub>|
-
-
-|Histórias de Usuário|
-|:---:|
-|<sub>HU01 Como bibliotecário, eu quero cadastrar usuários no sistema, para ter maior controle sobre o gerenciamento de seus perfis.</sub>|
-|<sub>HU02 Como um usuário do sistema, eu quero consultar a disponibilidade de um livro, para saber se ele pode ser emprestado ou não.</sub>|
-|<sub>HU03 Como bibliotécario, eu quero registrar o status e a descrição de um livro, para estar ciente do histórico de transações dele e seu conteúdo.</sub>|
-|<sub>HU04 Como bibliotecário, eu quero ter acesso ao catálogo completo dos títulos presentes na biblioteca, para não ter falta de informações em meu serviço.</sub>|
-|<sub>HU05 Como usuário e bibliotecário, eu quero ter facilidade ao utilizar o sistema, para tornar o processo de aprendizado rápido e eficiente.</sub>|
-|<sub>HU06 Como estudante, eu quero receber recomendações de livros com base nas minhas últimas leituras, para encontrar outros títulos semelhantes da minha área de interesse com mais facilidade.</sub>|
-|<sub>HU07 Como usuário, eu quero ter acesso ao chat de suporte ao usuário e um espaço reservado para feedback, para que assim possa ter minhas dúvidas saciadas e opiniões validadas ao utilizar o sistema.</sub>|
-|<sub>HU08 Como bibliotecário, eu quero um sistema altamente responsivo, para agilizar minhas tarefas manuais. </sub>|
-|<sub>HU09 Como estudante ou professor, eu quero poder consultar livros com antecedência, para que possa reservá-lo e agilizar o processo de empréstimo. </sub>|
-|<sub>HU10 Como bibliotecário, eu quero um sistema confiável com backup automático, para que não perca alterações feitas durante o meu trabalho. </sub>|
+|<sub>HU01</sub>|<sub>Como bibliotecário, eu quero cadastrar usuários no sistema, para ter maior controle sobre o gerenciamento de seus perfis.</sub>|
+|<sub>HU02</sub>|<sub>Como um usuário do sistema, eu quero consultar a disponibilidade de um livro, para saber se ele pode ser emprestado ou não.</sub>|
+|<sub>HU03</sub>|<sub>Como bibliotécario, eu quero registrar o status e a descrição de um livro, para estar ciente do histórico de transações dele e seu conteúdo.</sub>|
+|<sub>HU04</sub>|<sub>Como bibliotecário, eu quero ter acesso ao catálogo completo dos títulos presentes na biblioteca, para não ter falta de informações em meu serviço.</sub>|
+|<sub>HU05</sub>|<sub>Como usuário e bibliotecário, eu quero ter facilidade ao utilizar o sistema, para tornar o processo de aprendizado rápido e eficiente.</sub>|
+|<sub>HU06</sub>|<sub>Como estudante, eu quero receber recomendações de livros com base nas minhas últimas leituras, para encontrar outros títulos semelhantes da minha área de interesse com mais facilidade.</sub>|
+|<sub>HU07</sub>|<sub>Como usuário, eu quero ter acesso ao chat de suporte ao usuário e um espaço reservado para feedback, para que assim possa ter minhas dúvidas saciadas e opiniões validadas ao utilizar o sistema.</sub>|
+|<sub>HU08</sub>|<sub>Como bibliotecário, eu quero um sistema altamente responsivo, para agilizar minhas tarefas manuais. </sub>|
+|<sub>HU09</sub>|<sub>Como estudante ou professor, eu quero poder consultar livros com antecedência, para que possa reservá-lo e agilizar o processo de empréstimo. </sub>|
+|<sub>HU10</sub>|<sub>Como bibliotecário, eu quero um sistema confiável com backup automático, para que não perca alterações feitas durante o meu trabalho. </sub>|
 
 ### Entrevistas
 <h3 align="center">INFORMAÇÕES</h3>
@@ -158,7 +158,7 @@ Stephanny recepciona o aluno João da Silva, que solicitou pelo livro "Sistemas 
 7. Você recebe ou já recebeu alguma reclamação ou crítica construtiva que queira compartilhar? Aqui ou da ouvidoria? Sem pressão
 
 ***   
-**As entrevistas estão armazenadas como os arquivos [Entrevista Bibliotecária](https://github.com/abnerns/grupo9-biblioteca/blob/main/Entrevista%20Bibliotec%C3%A1ria.pdf) e [Entrevista Estudante](https://github.com/abnerns/grupo9-biblioteca/blob/main/Entrevista%20Estudante.pdf) aqui no repositório. Você pode encontrar as gravações as gravações nos links:**
+**As entrevistas estão armazenadas como os arquivos [Entrevista Bibliotecária](https://github.com/abnerns/grupo9-biblioteca/blob/main/Entrevista%20Bibliotec%C3%A1ria.pdf) e [Entrevista Estudante](https://github.com/abnerns/grupo9-biblioteca/blob/main/Entrevista%20Estudante.pdf) aqui no repositório. Você pode encontrar as gravações nos links:**
 
 - https://github.com/abnerns/grupo9-biblioteca/blob/main/entrevista_bibliotecaria.m4a
 - https://github.com/abnerns/grupo9-biblioteca/blob/main/entrevista_estudante.m4a
