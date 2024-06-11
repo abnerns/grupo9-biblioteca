@@ -80,7 +80,7 @@ Stephanny recepciona o aluno João da Silva, que solicitou pelo livro "Sistemas 
 |<sub>RF02</sub>|<sub>O sistema deve registrar a disponibilidade de um livro e permitir que um usuário consulte-a.</sub>|<sub>ALTA</sub>|
 |<sub>RF03</sub>|<sub>O sistema deve manter um registro de todas as transações de empréstimo e devolução.</sub>|<sub>ALTA</sub>|
 |<sub>RF04</sub>|<sub>O sistema deve conter um catálogo de todos os livros na biblioteca, junto com uma breve descrição de cada.</sub>|<sub>ALTA</sub>|
-|<sub>RN05</sub>|<sub>O sistema deve ter um chat para tirar dúvidas sobre seu uso, disponível em todas as páginas e sempre acessível.</sub>|<sub>BAIXA</sub>|
+|<sub>RF05</sub>|<sub>O sistema deve ter um chat para tirar dúvidas sobre seu uso, disponível em todas as páginas e sempre acessível.</sub>|<sub>BAIXA</sub>|
 |<sub>RF06</sub>|<sub>O sistema deve separar os livros e documentos físicos em seções de acordo com suas categorias.</sub>|<sub>BAIXA</sub>|
 |<sub>RF07</sub>|<sub>O sistema deve ser desenvolvido usando os conceitos de orientação a objeto.</sub>|<sub>BAIXA</sub>|
 |<sub>RF08</sub>|<sub>O sistema deve interagir com o sistema acadêmico da instituição e o acervo digital.</sub>|<sub>ALTA</sub>|
