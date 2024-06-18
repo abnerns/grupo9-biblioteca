@@ -167,8 +167,8 @@ Stephanny recepciona o aluno João da Silva, que solicitou pelo livro "Sistemas 
 
 ## 2.2. Protótipos
 
-- Ambiente Bibliotecário: https://ninjamock.com/s/T51ZKLx
-- Ambiente Usuário (Mobile): https://ninjamock.com/s/XG43JLx
+- Ambiente Bibliotecário: https://drive.google.com/file/d/14LLfRM8M9e7xzV-oTj5vGt7XeD5-USb8/view?usp=sharing
+- Ambiente Usuário (Mobile): https://drive.google.com/file/d/1AWBN9x9TWfnGUwggGBJb7kFw3kEAl8Zr/view?usp=sharing
 
 # Referências
 
